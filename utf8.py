@@ -1,0 +1,5 @@
+archi1 = open("datos.txt", "w", encoding="utf-8")
+archi1.write("Primera Linea.\n")
+archi1.write("Segunda Linea.\n")
+archi1.write("Tercera Linea.\n")
+archi1.close()
